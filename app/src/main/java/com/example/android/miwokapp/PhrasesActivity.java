@@ -29,7 +29,7 @@ public class PhrasesActivity extends AppCompatActivity {
         words.add(new Word("Let’s go.", "yoowutis"));
         words.add(new Word("Come here.", "әnni'nem"));
 
-        WordAdaptor adaptor = new WordAdaptor(this, words);
+        WordAdaptor adaptor = new WordAdaptor(this, words, R.color.category_phrases);
         ListView listView = (ListView) findViewById(R.id.list);
 
         listView.setAdapter(adaptor);
