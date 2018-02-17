@@ -14,7 +14,6 @@ import android.widget.TextView;
 import com.example.android.miwokapp.R;
 import com.example.android.miwokapp.pojo.Word;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
