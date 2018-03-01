@@ -22,7 +22,7 @@ import java.util.List;
 
 public class WordAdaptor extends ArrayAdapter<Word> {
 
-    private static final String LOG_TAG = WordAdaptor.class.getSimpleName();
+    private static final String LOG_TAG =    WordAdaptor.class.getSimpleName();
     private int mColorResourceId;
 
 
