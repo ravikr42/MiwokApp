@@ -10,5 +10,5 @@ android:
     - android-26
   
   notifications:
-  email:
-  - ravikr42@gmail.com
+    email:
+    - ravikr42@gmail.com
